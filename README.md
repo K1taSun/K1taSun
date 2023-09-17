@@ -3,7 +3,7 @@
 # About me 🧑‍💻
 I am a dedicated and punctual professional who thrives in fast-paced environments, consistently delivering work of the highest standards. My strength lies in my ability to collaborate seamlessly within teams, regardless of hierarchy, and cultivate positive working relationships with colleagues. I am known for my adaptability, unwavering reliability, and exemplary time management skills, ensuring that I meet deadlines consistently and efficiently.
 
-# 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <img align="left" alt="Java" width="40px" style="padding-rigth:15px;" src="https://github.com/K1taSun/K1taSun/assets/143649497/28e183d7-7e29-45bc-9d24-55e85df2381f"/>
 <img align="left" alt="Java" width="40px" style="padding-rigth:15px;" src="https://github.com/K1taSun/K1taSun/assets/143649497/26af1303-97e1-4270-bdbe-c30b9b935383"/>
 <img align="left" alt="Java" width="40px" style="padding-rigth:15px;" src="https://github.com/K1taSun/K1taSun/assets/143649497/ca7568b2-db69-42c0-8de6-e50f43c46223"/>
@@ -12,6 +12,7 @@ I am a dedicated and punctual professional who thrives in fast-paced environment
 <img align="left" alt="Java" width="40px" style="padding-rigth:15px;" src="https://github.com/K1taSun/K1taSun/assets/143649497/40ec4b98-01bd-4721-afdf-3c5d79edf53a"/>
 <br/>
 
+### Boot for contact with me  🤖
 
 
 
