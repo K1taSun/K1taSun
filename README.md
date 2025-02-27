@@ -1,10 +1,7 @@
 <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx5NDNyYjhsdmJjeTc1bDUyc24yM2U4aW5heTVnZ2x4YzJ6eHhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E3cZowYkfP22dz1s37/giphy.gif>
 
 # About me 🧑‍💻
-Name: Nikita
-Surname: Parkovskyi
-Field of Study: Applied Computer Science
-University: Cracow University of Technology
+Hello, my name is Nikita Parkovskyi. I am studying Applied Computer Science at Cracow University of Technology, with a strong interest in technology and programming.
 
 
 ## 🧰 Languages and Tools
