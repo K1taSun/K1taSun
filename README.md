@@ -1,4 +1,4 @@
-# 📌 About Me
+## 📌 About Me
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx5NDNyYjhsdmJjeTc1bDUyc24yM2U4aW5heTVnZ2x4YzJ6eHhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E3cZowYkfP22dz1s37/giphy.gif" width="100%" alt="Coding Gif"/>
 
@@ -27,7 +27,6 @@ Whether it's building projects, exploring new tools, or solving algorithmic chal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K1taSun&show_icons=true&theme=transparent" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=K1taSun&theme=transparent" alt="GitHub Streak"/>
 </p>
 
 ---
