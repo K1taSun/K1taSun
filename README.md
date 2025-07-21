@@ -11,13 +11,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3a3a,100:000000&height=80&section=header&text=Najlepszym%20sposobem%20na%20przewidzenie%20przyszłości%20jest%20jej%20stworzenie!&fontSize=18&fontColor=ffffff&animation=twinkling" alt="Quote Banner"/>
-</p>
-
-
-
 ## 🌌 Moje uniwersum
 - 🔭 Aktualnie uczę się **React, Node.js, Python (AI & Backend)**  
 - ⚡  Interesuje mnie **IoT, AI, Web Development**  
