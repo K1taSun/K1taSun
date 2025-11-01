@@ -1,5 +1,7 @@
 
 <h1 align="center">💻 O mnie</h1>
+
+
 <p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx5NDNyYjhsdmJjeTc1bDUyc24yM2U4aW5heTVnZ2x4YzJ6eHhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E3cZowYkfP22dz1s37/giphy.gif" width="80%" alt="Coding Gif"/>
 </p>
@@ -12,15 +14,14 @@
 
 
 ## 🌌 Moje uniwersum
-- 🔭 Aktualnie uczę się **React, Node.js, Python (AI & Backend)**  
-- ⚡  Interesuje mnie **IoT, AI, Web Development**  
-- 🌱 Fun fact: **Uwielbiam gry, sport i przyrode**  
-
+- 🔭 Aktualnie uczę się **Golang, Flutter, Python (AI & Backend)**  
+- ⚡  Interesuje mnie **Cloud engineering, IoT, AI**  
+- 🌱 Fun fact: **Uwielbiam gry, sport oraz zajmuje się fotografią**  
 
 
 ## 🧰 Technologie & Narzędzia
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,arduino,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,dart,swift,aws,arduino,docker,git,linux" />
 </p>
 
 ---
