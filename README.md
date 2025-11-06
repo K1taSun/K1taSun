@@ -21,7 +21,7 @@
 
 ## 🧰 Technologie & Narzędzia
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,dart,swift,aws,arduino,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,go,dart,swift,aws,arduino,docker,git,linux" />
 </p>
 
 ---
