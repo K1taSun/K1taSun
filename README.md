@@ -15,7 +15,7 @@
 
 Software Engineer working across AI/LLM integrations and embedded systems at **GlobalLogic**, currently completing a B.Sc. in Applied Computer Science at **Cracow University of Technology**. My work sits at the intersection of low-level hardware control and high-level software architecture — from ROS 2 nodes and bare-metal bring-up to cloud-backed services and distributed systems.
 
-- **Focus areas:** AI/LLM integration, embedded systems (ROS 2), hardware bring-up
+- **Focus areas:** AI/LLM integration, embedded systems, hardware bring-up
 - **Currently exploring:** distributed Go architectures, AWS infrastructure, microservice design patterns
 - **Education:** B.Sc. Applied Computer Science, Cracow University of Technology — expected Feb 2027
 
