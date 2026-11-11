@@ -84,8 +84,8 @@ I'm actively looking for my next role, ideally as a:
 
 <p align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=K1taSun&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api?username=K1taSun&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=K1taSun&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=K1taSun&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=1" alt="GitHub Stats" width="48%" />
   
 </p>
 
