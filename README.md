@@ -22,13 +22,14 @@ Software Engineer working across AI/LLM integrations and embedded systems at **G
 <br/>
 
 ## 🔍 Currently Open to Work
-
+> **🟢 Currently open to new opportunities.**  Get in touch via [LinkedIn](https://linkedin.com/in/nikita-parkovskyi) or [email](mailto:nikitaparkovskyi@gmail.com).
 I'm actively looking for my next role, ideally as a:
 
 - **Junior / Paid Internship Software Engineer**
 - **QA Engineer**
 - **Integration Programmer**
 - **Embedded Engineer**
+
 
 <br/>
 
